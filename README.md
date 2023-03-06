@@ -8,6 +8,6 @@
 
 A small threejs scene with a Macbook containing my links, from threejs journey course
 
-<a href="https://random-city-island-generator.netlify.app/">Demo</a>
+<a href="https://vincentlarreur-links.netlify.app/">Demo</a>
 
 </div>
